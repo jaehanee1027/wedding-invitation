@@ -13,7 +13,7 @@ interface GalleryConfig {
 export const weddingConfig = {
   // 메타 정보
   meta: {
-    title: "신랑 ❤️ 신부의 결혼식에 초대합니다",
+    title: " 이재한❤️김예슬의 결혼식에 초대합니다",
     description: "결혼식 초대장",
     ogImage: "/images/ha0h-1fsi-bqt3.jpg",
     noIndex: true,
@@ -24,32 +24,32 @@ export const weddingConfig = {
   main: {
     title: "Wedding Invitation",
     image: "/images/ha0h-1fsi-bqt3.jpg",
-    date: "2026년 5월 16일 토요일 12시 30분",
-    venue: "웨딩홀 이름"
+    date: "2027년 1월 24일 일요일 12시 30분",
+    venue: "라비니움"
   },
 
   // 소개글
   intro: {
     title: "",
-    text: "서로를 바라보며 걸어온\n소중한 발걸음이\n이제 하나의 길로 이어집니다.\n\n사랑과 믿음으로\n새 가정을 이루는 저희 두 사람의\n작은 시작을 알려드립니다."
+    text: "로테이션 소개팅에서 \n애수리가 째한이에게\n첫눈에 반해서 결혼하자고 꼬셨습니다.\n\n애수리는 지금\n쿨쿨 자고 있는\n밥오입니다."
   },
 
   // 결혼식 일정
   date: {
-    year: 2026,
-    month: 5,
-    day: 16,
+    year: 2027,
+    month: 1,
+    day: 24,
     hour: 12,
     minute: 30,
-    displayDate: "2026.05.16 SAT PM 12:30",
+    displayDate: "2027.01.24 SUN PM 12:30",
   },
 
   // 장소 정보
   venue: {
     name: "웨딩홀 이름",
-    address: "서울특별시 강남구 테헤란로 123\n웨딩홀 이름",
-    tel: "02-1234-5678",
-    naverMapId: "웨딩홀 이름", // 네이버 지도 검색용 장소명
+    address: "서울특별시 송파구 천호대로 996\n 천호역 10번출구 라비니움",
+    tel: "0507-1483-8019",
+    naverMapId: "라비니움", // 네이버 지도 검색용 장소명
     coordinates: {
       latitude: 37.5665,
       longitude: 126.9780,
@@ -103,16 +103,16 @@ export const weddingConfig = {
   invitation: {
     message: "한 줄기 별빛이 되어 만난 인연\n평생을 함께 걸어가려 합니다.\n\n소중한 분들의 축복 속에\n저희 두 사람이 첫 걸음을 내딛습니다.\n\n귀한 시간 내어 함께해 주신다면\n그 어떤 축복보다 값진 선물이 될 것입니다.",
     groom: {
-      name: "신랑이름",
+      name: "이재한",
       label: "아들",
-      father: "신랑아버지",
-      mother: "신랑어머니",
+      father: "이종근",
+      mother: "장문슥",
     },
     bride: {
-      name: "신부이름",
+      name: "김예슬",
       label: "딸",
-      father: "신부아버지",
-      mother: "신부어머니",
+      father: "김정래",
+      mother: "서정림",
     },
   },
 
