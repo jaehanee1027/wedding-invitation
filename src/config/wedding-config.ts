@@ -23,7 +23,7 @@ export const weddingConfig = {
   // 메인 화면
   main: {
     title: "Wedding Invitation",
-    image: "/images/ha0h-1fsi-bqt3.jpg",
+    image: "/images/야외.jpg",
     date: "2027년 1월 24일 일요일 12시 30분",
     venue: "라비니움"
   },
@@ -87,15 +87,13 @@ export const weddingConfig = {
     layout: "grid" as GalleryLayout, // "scroll" 또는 "grid" 선택
     position: "bottom" as GalleryPosition, // "middle" (현재 위치) 또는 "bottom" (맨 하단) 선택
     images: [
-      "/images/gallery/image1.jpg",
-      "/images/gallery/image2.jpg",
-      "/images/gallery/image3.jpg",
-      "/images/gallery/image4.jpg",
-      "/images/gallery/image5.jpg",
-      "/images/gallery/image6.jpg",
-      "/images/gallery/image7.jpg",
-      "/images/gallery/image8.jpg",
-      "/images/gallery/image9.jpg",
+      "/images/gallery/메인.jpg,
+      "/images/gallery/정원.jpg",
+      "/images/gallery/꽃",
+      "/images/gallery/신랑 독사진.jpg",
+      "/images/gallery/신부 독사진.jpg",
+      "/images/gallery/웃음.jpg",
+      "/images/gallery/야외.jpg",
     ],
   } as GalleryConfig,
 
