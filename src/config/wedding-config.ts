@@ -15,7 +15,7 @@ export const weddingConfig = {
   meta: {
     title: " 이재한❤️김예슬의 결혼식에 초대합니다",
     description: "결혼식 초대장",
-    ogImage: "/images/gallery/야외.jpeg",
+    ogImage: "images/gallery/야외.jpeg",
     noIndex: true,
     _jwk_watermark_id: uniqueIdentifier,
   },
@@ -23,7 +23,7 @@ export const weddingConfig = {
   // 메인 화면
   main: {
     title: "Wedding Invitation",
-    image: "/images/gallery/야외.jpeg",
+    image: "images/gallery/야외.jpeg",
     date: "2027년 1월 24일 일요일 12시 30분",
     venue: "라비니움"
   },
